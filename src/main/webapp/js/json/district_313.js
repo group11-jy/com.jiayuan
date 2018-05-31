@@ -1,0 +1,1 @@
+[{"DistrictID":"2711","DistrictName":"平安县","CityID":313},{"DistrictID":"2712","DistrictName":"民和回族土族自治县","CityID":313},{"DistrictID":"2713","DistrictName":"乐都县","CityID":313},{"DistrictID":"2714","DistrictName":"互助土族自治县","CityID":313},{"DistrictID":"2715","DistrictName":"化隆回族自治县","CityID":313},{"DistrictID":"2716","DistrictName":"循化撒拉族自治县","CityID":313}]

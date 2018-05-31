@@ -1,0 +1,1 @@
+[{"DistrictID":"1918","DistrictName":"港口区","CityID":223},{"DistrictID":"1919","DistrictName":"防城区","CityID":223},{"DistrictID":"1920","DistrictName":"上思县","CityID":223},{"DistrictID":"1921","DistrictName":"东兴市","CityID":223}]

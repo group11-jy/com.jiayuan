@@ -1,0 +1,1 @@
+[{"DistrictID":"1536","DistrictName":"黄石港区","CityID":170},{"DistrictID":"1537","DistrictName":"西塞山区","CityID":170},{"DistrictID":"1538","DistrictName":"下陆区","CityID":170},{"DistrictID":"1539","DistrictName":"铁山区","CityID":170},{"DistrictID":"1540","DistrictName":"阳新县","CityID":170},{"DistrictID":"1541","DistrictName":"大冶市","CityID":170}]

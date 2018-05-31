@@ -1,0 +1,1 @@
+[{"DistrictID":"1419","DistrictName":"鹤山区","CityID":157},{"DistrictID":"1420","DistrictName":"山城区","CityID":157},{"DistrictID":"1421","DistrictName":"淇滨区","CityID":157},{"DistrictID":"1422","DistrictName":"浚县","CityID":157},{"DistrictID":"1423","DistrictName":"淇县","CityID":157}]

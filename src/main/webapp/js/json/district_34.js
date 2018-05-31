@@ -1,0 +1,1 @@
+[{"DistrictID":"408","DistrictName":"乌兰浩特市","CityID":34},{"DistrictID":"409","DistrictName":"阿尔山市","CityID":34},{"DistrictID":"410","DistrictName":"科尔沁右翼前旗","CityID":34},{"DistrictID":"411","DistrictName":"科尔沁右翼中旗","CityID":34},{"DistrictID":"412","DistrictName":"扎赉特旗","CityID":34},{"DistrictID":"413","DistrictName":"突泉县","CityID":34}]

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+<mapper namespace="com.bjtu.mapper.MovieMapper">
+
+
+	<!-- 根据分类编号查询商品 (包括详情) -->
+	<select id="getMovie" parameterType="Long" resultType="com.bjtu.bean.Movie">
+		select * from movies where movieId=#{movieId}
+	</select>
+
+	<!-- 查询所有电影 -->
+	<select id="getMovies" resultType="com.bjtu.bean.Movie">
+		select * from movies
+	</select>
+
+	<!-- 根据用户id查询电影 -->
+	<select id="getMovesByUserId" parameterType="Long" resultType="com.bjtu.bean.Object_Movies">
+		SELECT m.*,r.preferance FROM movies m,ratings r
+		WHERE m.movieId=r.movieId
+		AND r.userId=#{userId}
+	</select>
+
+</mapper>

@@ -1,0 +1,1 @@
+[{"DistrictID":"2756","DistrictName":"利通区","CityID":322},{"DistrictID":"2757","DistrictName":"盐池县","CityID":322},{"DistrictID":"2758","DistrictName":"同心县","CityID":322},{"DistrictID":"2759","DistrictName":"青铜峡市","CityID":322}]

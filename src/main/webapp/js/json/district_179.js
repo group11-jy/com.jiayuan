@@ -1,0 +1,1 @@
+[{"DistrictID":"1605","DistrictName":"咸安区","CityID":179},{"DistrictID":"1606","DistrictName":"嘉鱼县","CityID":179},{"DistrictID":"1607","DistrictName":"通城县","CityID":179},{"DistrictID":"1608","DistrictName":"崇阳县","CityID":179},{"DistrictID":"1609","DistrictName":"通山县","CityID":179},{"DistrictID":"1610","DistrictName":"赤壁市","CityID":179}]

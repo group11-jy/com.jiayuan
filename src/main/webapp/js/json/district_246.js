@@ -1,0 +1,1 @@
+[{"DistrictID":"2129","DistrictName":"东坡区","CityID":246},{"DistrictID":"2130","DistrictName":"仁寿县","CityID":246},{"DistrictID":"2131","DistrictName":"彭山县","CityID":246},{"DistrictID":"2132","DistrictName":"洪雅县","CityID":246},{"DistrictID":"2133","DistrictName":"丹棱县","CityID":246},{"DistrictID":"2134","DistrictName":"青神县","CityID":246}]

@@ -1,0 +1,1 @@
+[{"DistrictID":"2742","DistrictName":"格尔木市","CityID":319},{"DistrictID":"2743","DistrictName":"德令哈市","CityID":319},{"DistrictID":"2744","DistrictName":"乌兰县","CityID":319},{"DistrictID":"2745","DistrictName":"都兰县","CityID":319},{"DistrictID":"2746","DistrictName":"天峻县","CityID":319}]

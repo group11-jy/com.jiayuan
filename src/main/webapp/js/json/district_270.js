@@ -1,0 +1,1 @@
+[{"DistrictID":"2357","DistrictName":"古城区","CityID":270},{"DistrictID":"2358","DistrictName":"玉龙纳西族自治县","CityID":270},{"DistrictID":"2359","DistrictName":"永胜县","CityID":270},{"DistrictID":"2360","DistrictName":"华坪县","CityID":270},{"DistrictID":"2361","DistrictName":"宁蒗彝族自治县","CityID":270}]

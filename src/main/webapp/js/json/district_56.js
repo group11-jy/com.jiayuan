@@ -1,0 +1,1 @@
+[{"DistrictID":"565","DistrictName":"八道江区","CityID":56},{"DistrictID":"566","DistrictName":"抚松县","CityID":56},{"DistrictID":"567","DistrictName":"靖宇县","CityID":56},{"DistrictID":"568","DistrictName":"长白朝鲜族自治县","CityID":56},{"DistrictID":"569","DistrictName":"江源县","CityID":56},{"DistrictID":"570","DistrictName":"临江市","CityID":56}]

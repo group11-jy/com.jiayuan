@@ -1,0 +1,1 @@
+[{"DistrictID":"2725","DistrictName":"共和县","CityID":316},{"DistrictID":"2726","DistrictName":"同德县","CityID":316},{"DistrictID":"2727","DistrictName":"贵德县","CityID":316},{"DistrictID":"2728","DistrictName":"兴海县","CityID":316},{"DistrictID":"2729","DistrictName":"贵南县","CityID":316}]

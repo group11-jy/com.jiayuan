@@ -1,0 +1,1 @@
+[{"DistrictID":"1926","DistrictName":"港北区","CityID":225},{"DistrictID":"1927","DistrictName":"港南区","CityID":225},{"DistrictID":"1928","DistrictName":"覃塘区","CityID":225},{"DistrictID":"1929","DistrictName":"平南县","CityID":225},{"DistrictID":"1930","DistrictName":"桂平市","CityID":225}]

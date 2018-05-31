@@ -1,0 +1,1 @@
+[{"DistrictID":"2104","DistrictName":"市中区","CityID":243},{"DistrictID":"2105","DistrictName":"东兴区","CityID":243},{"DistrictID":"2106","DistrictName":"威远县","CityID":243},{"DistrictID":"2107","DistrictName":"资中县","CityID":243},{"DistrictID":"2108","DistrictName":"隆昌县","CityID":243}]

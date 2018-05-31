@@ -1,0 +1,1 @@
+[{"CityID":320,"CityName":"银川市","ZipCode":"750000","ProvinceID":"30"},{"CityID":321,"CityName":"石嘴山市","ZipCode":"753000","ProvinceID":"30"},{"CityID":322,"CityName":"吴忠市","ZipCode":"751100","ProvinceID":"30"},{"CityID":323,"CityName":"固原市","ZipCode":"756000","ProvinceID":"30"},{"CityID":324,"CityName":"中卫市","ZipCode":"751700","ProvinceID":"30"}]

@@ -1,0 +1,1 @@
+[{"DistrictID":"254","DistrictName":"朔城区","CityID":19},{"DistrictID":"255","DistrictName":"平鲁区","CityID":19},{"DistrictID":"256","DistrictName":"山阴县","CityID":19},{"DistrictID":"257","DistrictName":"应县","CityID":19},{"DistrictID":"258","DistrictName":"右玉县","CityID":19},{"DistrictID":"259","DistrictName":"怀仁县","CityID":19}]

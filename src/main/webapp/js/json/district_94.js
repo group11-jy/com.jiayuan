@@ -1,0 +1,1 @@
+[{"DistrictID":"906","DistrictName":"柯城区","CityID":94},{"DistrictID":"907","DistrictName":"衢江区","CityID":94},{"DistrictID":"908","DistrictName":"常山县","CityID":94},{"DistrictID":"909","DistrictName":"开化县","CityID":94},{"DistrictID":"910","DistrictName":"龙游县","CityID":94},{"DistrictID":"911","DistrictName":"江山市","CityID":94}]

@@ -1,0 +1,1 @@
+[{"CityID":344,"CityName":"澳门特别行政区","ZipCode":"000000","ProvinceID":"33"}]

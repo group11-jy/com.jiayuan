@@ -1,0 +1,1 @@
+[{"DistrictID":"1133","DistrictName":"昌江区","CityID":125},{"DistrictID":"1134","DistrictName":"珠山区","CityID":125},{"DistrictID":"1135","DistrictName":"浮梁县","CityID":125},{"DistrictID":"1136","DistrictName":"乐平市","CityID":125}]

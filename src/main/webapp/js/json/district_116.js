@@ -1,0 +1,1 @@
+[{"DistrictID":"1052","DistrictName":"思明区","CityID":116},{"DistrictID":"1053","DistrictName":"海沧区","CityID":116},{"DistrictID":"1054","DistrictName":"湖里区","CityID":116},{"DistrictID":"1055","DistrictName":"集美区","CityID":116},{"DistrictID":"1056","DistrictName":"同安区","CityID":116},{"DistrictID":"1057","DistrictName":"翔安区","CityID":116}]

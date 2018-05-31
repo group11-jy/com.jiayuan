@@ -1,0 +1,1 @@
+[{"DistrictID":"485","DistrictName":"站前区","CityID":44},{"DistrictID":"486","DistrictName":"西市区","CityID":44},{"DistrictID":"487","DistrictName":"鲅鱼圈区","CityID":44},{"DistrictID":"488","DistrictName":"老边区","CityID":44},{"DistrictID":"489","DistrictName":"盖州市","CityID":44},{"DistrictID":"490","DistrictName":"大石桥市","CityID":44}]

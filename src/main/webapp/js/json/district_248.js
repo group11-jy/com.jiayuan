@@ -1,0 +1,1 @@
+[{"DistrictID":"2145","DistrictName":"广安区","CityID":248},{"DistrictID":"2146","DistrictName":"岳池县","CityID":248},{"DistrictID":"2147","DistrictName":"武胜县","CityID":248},{"DistrictID":"2148","DistrictName":"邻水县","CityID":248},{"DistrictID":"2149","DistrictName":"华蓥市","CityID":248}]

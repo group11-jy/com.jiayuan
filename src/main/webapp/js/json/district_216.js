@@ -1,0 +1,1 @@
+[{"DistrictID":"1858","DistrictName":"榕城区","CityID":216},{"DistrictID":"1859","DistrictName":"揭东县","CityID":216},{"DistrictID":"1860","DistrictName":"揭西县","CityID":216},{"DistrictID":"1861","DistrictName":"惠来县","CityID":216},{"DistrictID":"1862","DistrictName":"普宁市","CityID":216}]

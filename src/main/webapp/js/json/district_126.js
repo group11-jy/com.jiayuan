@@ -1,0 +1,1 @@
+[{"DistrictID":"1137","DistrictName":"安源区","CityID":126},{"DistrictID":"1138","DistrictName":"湘东区","CityID":126},{"DistrictID":"1139","DistrictName":"莲花县","CityID":126},{"DistrictID":"1140","DistrictName":"上栗县","CityID":126},{"DistrictID":"1141","DistrictName":"芦溪县","CityID":126}]

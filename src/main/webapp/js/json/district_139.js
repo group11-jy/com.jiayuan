@@ -1,0 +1,1 @@
+[{"DistrictID":"1259","DistrictName":"东营区","CityID":139},{"DistrictID":"1260","DistrictName":"河口区","CityID":139},{"DistrictID":"1261","DistrictName":"垦利县","CityID":139},{"DistrictID":"1262","DistrictName":"利津县","CityID":139},{"DistrictID":"1263","DistrictName":"广饶县","CityID":139}]

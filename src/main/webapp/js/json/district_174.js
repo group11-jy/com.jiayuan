@@ -1,0 +1,1 @@
+[{"DistrictID":"1572","DistrictName":"梁子湖区","CityID":174},{"DistrictID":"1573","DistrictName":"华容区","CityID":174},{"DistrictID":"1574","DistrictName":"鄂城区","CityID":174}]

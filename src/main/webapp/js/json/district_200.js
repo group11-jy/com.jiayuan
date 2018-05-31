@@ -1,0 +1,1 @@
+[{"DistrictID":"1775","DistrictName":"香洲区","CityID":200},{"DistrictID":"1776","DistrictName":"斗门区","CityID":200},{"DistrictID":"1777","DistrictName":"金湾区","CityID":200}]

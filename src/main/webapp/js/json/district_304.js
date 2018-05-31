@@ -1,0 +1,1 @@
+[{"DistrictID":"2644","DistrictName":"甘州区","CityID":304},{"DistrictID":"2645","DistrictName":"肃南裕固族自治县","CityID":304},{"DistrictID":"2646","DistrictName":"民乐县","CityID":304},{"DistrictID":"2647","DistrictName":"临泽县","CityID":304},{"DistrictID":"2648","DistrictName":"高台县","CityID":304},{"DistrictID":"2649","DistrictName":"山丹县","CityID":304}]

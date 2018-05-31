@@ -1,0 +1,1 @@
+[{"DistrictID":"2640","DistrictName":"凉州区","CityID":303},{"DistrictID":"2641","DistrictName":"民勤县","CityID":303},{"DistrictID":"2642","DistrictName":"古浪县","CityID":303},{"DistrictID":"2643","DistrictName":"天祝藏族自治县","CityID":303}]

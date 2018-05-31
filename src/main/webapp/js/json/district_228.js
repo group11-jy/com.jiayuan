@@ -1,0 +1,1 @@
+[{"DistrictID":"1949","DistrictName":"八步区","CityID":228},{"DistrictID":"1950","DistrictName":"昭平县","CityID":228},{"DistrictID":"1951","DistrictName":"钟山县","CityID":228},{"DistrictID":"1952","DistrictName":"富川瑶族自治县","CityID":228}]

@@ -1,0 +1,1 @@
+[{"DistrictID":"686","DistrictName":"新兴区","CityID":68},{"DistrictID":"687","DistrictName":"桃山区","CityID":68},{"DistrictID":"688","DistrictName":"茄子河区","CityID":68},{"DistrictID":"689","DistrictName":"勃利县","CityID":68}]

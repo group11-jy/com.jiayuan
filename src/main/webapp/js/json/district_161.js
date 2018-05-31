@@ -1,0 +1,1 @@
+[{"DistrictID":"1453","DistrictName":"魏都区","CityID":161},{"DistrictID":"1454","DistrictName":"许昌县","CityID":161},{"DistrictID":"1455","DistrictName":"鄢陵县","CityID":161},{"DistrictID":"1456","DistrictName":"襄城县","CityID":161},{"DistrictID":"1457","DistrictName":"禹州市","CityID":161},{"DistrictID":"1458","DistrictName":"长葛市","CityID":161}]

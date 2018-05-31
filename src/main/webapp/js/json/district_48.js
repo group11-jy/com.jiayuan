@@ -1,0 +1,1 @@
+[{"DistrictID":"509","DistrictName":"银州区","CityID":48},{"DistrictID":"510","DistrictName":"清河区","CityID":48},{"DistrictID":"511","DistrictName":"铁岭县","CityID":48},{"DistrictID":"512","DistrictName":"西丰县","CityID":48},{"DistrictID":"513","DistrictName":"昌图县","CityID":48},{"DistrictID":"514","DistrictName":"调兵山市","CityID":48},{"DistrictID":"515","DistrictName":"开原市","CityID":48}]

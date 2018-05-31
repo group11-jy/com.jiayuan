@@ -1,0 +1,1 @@
+[{"DistrictID":"2717","DistrictName":"门源回族自治县","CityID":314},{"DistrictID":"2718","DistrictName":"祁连县","CityID":314},{"DistrictID":"2719","DistrictName":"海晏县","CityID":314},{"DistrictID":"2720","DistrictName":"刚察县","CityID":314}]

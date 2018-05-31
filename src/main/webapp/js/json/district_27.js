@@ -1,0 +1,1 @@
+[{"DistrictID":"346","DistrictName":"海勃湾区","CityID":27},{"DistrictID":"347","DistrictName":"海南区","CityID":27},{"DistrictID":"348","DistrictName":"乌达区","CityID":27}]

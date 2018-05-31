@@ -1,0 +1,1 @@
+[{"DistrictID":"2169","DistrictName":"雁江区","CityID":252},{"DistrictID":"2170","DistrictName":"安岳县","CityID":252},{"DistrictID":"2171","DistrictName":"乐至县","CityID":252},{"DistrictID":"2172","DistrictName":"简阳市","CityID":252}]

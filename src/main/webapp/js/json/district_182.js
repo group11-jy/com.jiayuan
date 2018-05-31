@@ -1,0 +1,1 @@
+[{"DistrictID":"1621","DistrictName":"仙桃市","CityID":182},{"DistrictID":"1622","DistrictName":"潜江市","CityID":182},{"DistrictID":"1623","DistrictName":"天门市","CityID":182},{"DistrictID":"1624","DistrictName":"神农架林区","CityID":182}]

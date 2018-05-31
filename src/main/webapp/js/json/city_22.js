@@ -1,0 +1,1 @@
+[{"CityID":234,"CityName":"重庆市","ZipCode":"400000","ProvinceID":"22"}]

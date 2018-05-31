@@ -1,0 +1,1 @@
+[{"DistrictID":"2721","DistrictName":"同仁县","CityID":315},{"DistrictID":"2722","DistrictName":"尖扎县","CityID":315},{"DistrictID":"2723","DistrictName":"泽库县","CityID":315},{"DistrictID":"2724","DistrictName":"河南蒙古族自治县","CityID":315}]

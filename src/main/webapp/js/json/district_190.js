@@ -1,0 +1,1 @@
+[{"DistrictID":"1690","DistrictName":"永定区","CityID":190},{"DistrictID":"1691","DistrictName":"武陵源区","CityID":190},{"DistrictID":"1692","DistrictName":"慈利县","CityID":190},{"DistrictID":"1693","DistrictName":"桑植县","CityID":190}]

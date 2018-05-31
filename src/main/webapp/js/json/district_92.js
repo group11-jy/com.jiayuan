@@ -1,0 +1,1 @@
+[{"DistrictID":"891","DistrictName":"越城区","CityID":92},{"DistrictID":"892","DistrictName":"绍兴县","CityID":92},{"DistrictID":"893","DistrictName":"新昌县","CityID":92},{"DistrictID":"894","DistrictName":"诸暨市","CityID":92},{"DistrictID":"895","DistrictName":"上虞市","CityID":92},{"DistrictID":"896","DistrictName":"嵊州市","CityID":92}]

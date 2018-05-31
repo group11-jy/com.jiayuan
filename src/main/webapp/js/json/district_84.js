@@ -1,0 +1,1 @@
+[{"DistrictID":"827","DistrictName":"京口区","CityID":84},{"DistrictID":"828","DistrictName":"润州区","CityID":84},{"DistrictID":"829","DistrictName":"丹徒区","CityID":84},{"DistrictID":"830","DistrictName":"丹阳市","CityID":84},{"DistrictID":"831","DistrictName":"扬中市","CityID":84},{"DistrictID":"832","DistrictName":"句容市","CityID":84}]

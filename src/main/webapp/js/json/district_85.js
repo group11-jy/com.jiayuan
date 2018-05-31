@@ -1,0 +1,1 @@
+[{"DistrictID":"833","DistrictName":"海陵区","CityID":85},{"DistrictID":"834","DistrictName":"高港区","CityID":85},{"DistrictID":"835","DistrictName":"兴化市","CityID":85},{"DistrictID":"836","DistrictName":"靖江市","CityID":85},{"DistrictID":"837","DistrictName":"泰兴市","CityID":85},{"DistrictID":"838","DistrictName":"姜堰市","CityID":85}]

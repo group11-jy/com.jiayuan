@@ -1,0 +1,1 @@
+[{"DistrictID":"2249","DistrictName":"西秀区","CityID":259},{"DistrictID":"2250","DistrictName":"平坝县","CityID":259},{"DistrictID":"2251","DistrictName":"普定县","CityID":259},{"DistrictID":"2252","DistrictName":"镇宁布依族苗族自治县","CityID":259},{"DistrictID":"2253","DistrictName":"关岭布依族苗族自治县","CityID":259},{"DistrictID":"2254","DistrictName":"紫云苗族布依族自治县","CityID":259}]

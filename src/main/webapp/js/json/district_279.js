@@ -1,0 +1,1 @@
+[{"DistrictID":"2431","DistrictName":"泸水县","CityID":279},{"DistrictID":"2432","DistrictName":"福贡县","CityID":279},{"DistrictID":"2433","DistrictName":"贡山独龙族怒族自治县","CityID":279},{"DistrictID":"2434","DistrictName":"兰坪白族普米族自治县","CityID":279}]

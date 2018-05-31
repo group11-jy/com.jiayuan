@@ -1,0 +1,1 @@
+[{"DistrictID":"74","DistrictName":"海港区","CityID":5},{"DistrictID":"75","DistrictName":"山海关区","CityID":5},{"DistrictID":"76","DistrictName":"北戴河区","CityID":5},{"DistrictID":"77","DistrictName":"青龙满族自治县","CityID":5},{"DistrictID":"78","DistrictName":"昌黎县","CityID":5},{"DistrictID":"79","DistrictName":"抚宁县","CityID":5},{"DistrictID":"80","DistrictName":"卢龙县","CityID":5}]

@@ -1,0 +1,1 @@
+[{"DistrictID":"2524","DistrictName":"王益区","CityID":289},{"DistrictID":"2525","DistrictName":"印台区","CityID":289},{"DistrictID":"2526","DistrictName":"耀州区","CityID":289},{"DistrictID":"2527","DistrictName":"宜君县","CityID":289}]

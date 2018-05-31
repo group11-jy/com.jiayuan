@@ -1,0 +1,1 @@
+[{"DistrictID":"1806","DistrictName":"茂南区","CityID":205},{"DistrictID":"1807","DistrictName":"茂港区","CityID":205},{"DistrictID":"1808","DistrictName":"电白县","CityID":205},{"DistrictID":"1809","DistrictName":"高州市","CityID":205},{"DistrictID":"1810","DistrictName":"化州市","CityID":205},{"DistrictID":"1811","DistrictName":"信宜市","CityID":205}]

@@ -1,0 +1,1 @@
+[{"DistrictID":"2730","DistrictName":"玛沁县","CityID":317},{"DistrictID":"2731","DistrictName":"班玛县","CityID":317},{"DistrictID":"2732","DistrictName":"甘德县","CityID":317},{"DistrictID":"2733","DistrictName":"达日县","CityID":317},{"DistrictID":"2734","DistrictName":"久治县","CityID":317},{"DistrictID":"2735","DistrictName":"玛多县","CityID":317}]

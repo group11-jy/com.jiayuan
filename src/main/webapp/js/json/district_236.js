@@ -1,0 +1,1 @@
+[{"DistrictID":"2059","DistrictName":"自流井区","CityID":236},{"DistrictID":"2060","DistrictName":"贡井区","CityID":236},{"DistrictID":"2061","DistrictName":"大安区","CityID":236},{"DistrictID":"2062","DistrictName":"沿滩区","CityID":236},{"DistrictID":"2063","DistrictName":"荣县","CityID":236},{"DistrictID":"2064","DistrictName":"富顺县","CityID":236}]

@@ -1,0 +1,1 @@
+[{"DistrictID":"1058","DistrictName":"城厢区","CityID":117},{"DistrictID":"1059","DistrictName":"涵江区","CityID":117},{"DistrictID":"1060","DistrictName":"荔城区","CityID":117},{"DistrictID":"1061","DistrictName":"秀屿区","CityID":117},{"DistrictID":"1062","DistrictName":"仙游县","CityID":117}]

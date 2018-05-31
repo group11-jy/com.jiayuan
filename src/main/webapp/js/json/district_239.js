@@ -1,0 +1,1 @@
+[{"DistrictID":"2077","DistrictName":"旌阳区","CityID":239},{"DistrictID":"2078","DistrictName":"中江县","CityID":239},{"DistrictID":"2079","DistrictName":"罗江县","CityID":239},{"DistrictID":"2080","DistrictName":"广汉市","CityID":239},{"DistrictID":"2081","DistrictName":"什邡市","CityID":239},{"DistrictID":"2082","DistrictName":"绵竹市","CityID":239}]

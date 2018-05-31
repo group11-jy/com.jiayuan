@@ -1,0 +1,1 @@
+[{"DistrictID":"498","DistrictName":"白塔区","CityID":46},{"DistrictID":"499","DistrictName":"文圣区","CityID":46},{"DistrictID":"500","DistrictName":"宏伟区","CityID":46},{"DistrictID":"501","DistrictName":"弓长岭区","CityID":46},{"DistrictID":"502","DistrictName":"太子河区","CityID":46},{"DistrictID":"503","DistrictName":"辽阳县","CityID":46},{"DistrictID":"504","DistrictName":"灯塔市","CityID":46}]

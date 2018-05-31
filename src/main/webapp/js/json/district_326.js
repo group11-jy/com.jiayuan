@@ -1,0 +1,1 @@
+[{"DistrictID":"2776","DistrictName":"独山子区","CityID":326},{"DistrictID":"2777","DistrictName":"克拉玛依区","CityID":326},{"DistrictID":"2778","DistrictName":"白碱滩区","CityID":326},{"DistrictID":"2779","DistrictName":"乌尔禾区","CityID":326}]

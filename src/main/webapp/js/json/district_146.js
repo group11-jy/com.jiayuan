@@ -1,0 +1,1 @@
+[{"DistrictID":"1314","DistrictName":"莱城区","CityID":146},{"DistrictID":"1315","DistrictName":"钢城区","CityID":146}]

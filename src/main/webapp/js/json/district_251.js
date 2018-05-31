@@ -1,0 +1,1 @@
+[{"DistrictID":"2165","DistrictName":"巴州区","CityID":251},{"DistrictID":"2166","DistrictName":"通江县","CityID":251},{"DistrictID":"2167","DistrictName":"南江县","CityID":251},{"DistrictID":"2168","DistrictName":"平昌县","CityID":251}]

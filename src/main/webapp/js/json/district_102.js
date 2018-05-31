@@ -1,0 +1,1 @@
+[{"DistrictID":"961","DistrictName":"金家庄区","CityID":102},{"DistrictID":"962","DistrictName":"花山区","CityID":102},{"DistrictID":"963","DistrictName":"雨山区","CityID":102},{"DistrictID":"964","DistrictName":"当涂县","CityID":102}]

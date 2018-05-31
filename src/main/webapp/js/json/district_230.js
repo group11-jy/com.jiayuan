@@ -1,0 +1,1 @@
+[{"DistrictID":"1964","DistrictName":"兴宾区","CityID":230},{"DistrictID":"1965","DistrictName":"忻城县","CityID":230},{"DistrictID":"1966","DistrictName":"象州县","CityID":230},{"DistrictID":"1967","DistrictName":"武宣县","CityID":230},{"DistrictID":"1968","DistrictName":"金秀瑶族自治县","CityID":230},{"DistrictID":"1969","DistrictName":"合山市","CityID":230}]

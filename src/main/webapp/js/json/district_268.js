@@ -1,0 +1,1 @@
+[{"DistrictID":"2341","DistrictName":"隆阳区","CityID":268},{"DistrictID":"2342","DistrictName":"施甸县","CityID":268},{"DistrictID":"2343","DistrictName":"腾冲县","CityID":268},{"DistrictID":"2344","DistrictName":"龙陵县","CityID":268},{"DistrictID":"2345","DistrictName":"昌宁县","CityID":268}]

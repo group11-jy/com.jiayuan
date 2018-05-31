@@ -1,0 +1,1 @@
+[{"DistrictID":"523","DistrictName":"连山区","CityID":50},{"DistrictID":"524","DistrictName":"龙港区","CityID":50},{"DistrictID":"525","DistrictName":"南票区","CityID":50},{"DistrictID":"526","DistrictName":"绥中县","CityID":50},{"DistrictID":"527","DistrictName":"建昌县","CityID":50},{"DistrictID":"528","DistrictName":"兴城市","CityID":50}]

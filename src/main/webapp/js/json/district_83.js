@@ -1,0 +1,1 @@
+[{"DistrictID":"820","DistrictName":"广陵区","CityID":83},{"DistrictID":"821","DistrictName":"邗江区","CityID":83},{"DistrictID":"822","DistrictName":"维扬区","CityID":83},{"DistrictID":"823","DistrictName":"宝应县","CityID":83},{"DistrictID":"824","DistrictName":"仪征市","CityID":83},{"DistrictID":"825","DistrictName":"高邮市","CityID":83},{"DistrictID":"826","DistrictName":"江都市","CityID":83}]

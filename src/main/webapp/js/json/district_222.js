@@ -1,0 +1,1 @@
+[{"DistrictID":"1914","DistrictName":"海城区","CityID":222},{"DistrictID":"1915","DistrictName":"银海区","CityID":222},{"DistrictID":"1916","DistrictName":"铁山港区","CityID":222},{"DistrictID":"1917","DistrictName":"合浦县","CityID":222}]

@@ -1,0 +1,1 @@
+[{"DistrictID":"879","DistrictName":"秀城区","CityID":90},{"DistrictID":"880","DistrictName":"秀洲区","CityID":90},{"DistrictID":"881","DistrictName":"嘉善县","CityID":90},{"DistrictID":"882","DistrictName":"海盐县","CityID":90},{"DistrictID":"883","DistrictName":"海宁市","CityID":90},{"DistrictID":"884","DistrictName":"平湖市","CityID":90},{"DistrictID":"885","DistrictName":"桐乡市","CityID":90}]

@@ -1,0 +1,1 @@
+[{"DistrictID":"426","DistrictName":"阿拉善左旗","CityID":36},{"DistrictID":"427","DistrictName":"阿拉善右旗","CityID":36},{"DistrictID":"428","DistrictName":"额济纳旗","CityID":36}]

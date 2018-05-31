@@ -1,0 +1,1 @@
+[{"DistrictID":"2794","DistrictName":"博乐市","CityID":330},{"DistrictID":"2795","DistrictName":"精河县","CityID":330},{"DistrictID":"2796","DistrictName":"温泉县","CityID":330}]

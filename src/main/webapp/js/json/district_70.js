@@ -1,0 +1,1 @@
+[{"DistrictID":"700","DistrictName":"爱辉区","CityID":70},{"DistrictID":"701","DistrictName":"嫩江县","CityID":70},{"DistrictID":"702","DistrictName":"逊克县","CityID":70},{"DistrictID":"703","DistrictName":"孙吴县","CityID":70},{"DistrictID":"704","DistrictName":"北安市","CityID":70},{"DistrictID":"705","DistrictName":"五大连池市","CityID":70}]

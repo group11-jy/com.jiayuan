@@ -1,0 +1,1 @@
+[{"DistrictID":"2426","DistrictName":"瑞丽市","CityID":278},{"DistrictID":"2427","DistrictName":"潞西市","CityID":278},{"DistrictID":"2428","DistrictName":"梁河县","CityID":278},{"DistrictID":"2429","DistrictName":"盈江县","CityID":278},{"DistrictID":"2430","DistrictName":"陇川县","CityID":278}]

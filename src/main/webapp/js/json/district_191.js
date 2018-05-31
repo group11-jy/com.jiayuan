@@ -1,0 +1,1 @@
+[{"DistrictID":"1694","DistrictName":"资阳区","CityID":191},{"DistrictID":"1695","DistrictName":"赫山区","CityID":191},{"DistrictID":"1696","DistrictName":"南县","CityID":191},{"DistrictID":"1697","DistrictName":"桃江县","CityID":191},{"DistrictID":"1698","DistrictName":"安化县","CityID":191},{"DistrictID":"1699","DistrictName":"沅江市","CityID":191}]

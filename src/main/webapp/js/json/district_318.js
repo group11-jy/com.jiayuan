@@ -1,0 +1,1 @@
+[{"DistrictID":"2736","DistrictName":"玉树县","CityID":318},{"DistrictID":"2737","DistrictName":"杂多县","CityID":318},{"DistrictID":"2738","DistrictName":"称多县","CityID":318},{"DistrictID":"2739","DistrictName":"治多县","CityID":318},{"DistrictID":"2740","DistrictName":"囊谦县","CityID":318},{"DistrictID":"2741","DistrictName":"曲麻莱县","CityID":318}]

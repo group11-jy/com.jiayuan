@@ -1,0 +1,1 @@
+[{"DistrictID":"558","DistrictName":"东昌区","CityID":55},{"DistrictID":"559","DistrictName":"二道江区","CityID":55},{"DistrictID":"560","DistrictName":"通化县","CityID":55},{"DistrictID":"561","DistrictName":"辉南县","CityID":55},{"DistrictID":"562","DistrictName":"柳河县","CityID":55},{"DistrictID":"563","DistrictName":"梅河口市","CityID":55},{"DistrictID":"564","DistrictName":"集安市","CityID":55}]

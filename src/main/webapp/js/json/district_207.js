@@ -1,0 +1,1 @@
+[{"DistrictID":"1820","DistrictName":"惠城区","CityID":207},{"DistrictID":"1821","DistrictName":"惠阳区","CityID":207},{"DistrictID":"1822","DistrictName":"博罗县","CityID":207},{"DistrictID":"1823","DistrictName":"惠东县","CityID":207},{"DistrictID":"1824","DistrictName":"龙门县","CityID":207}]

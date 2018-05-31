@@ -1,0 +1,1 @@
+[{"DistrictID":"969","DistrictName":"铜官山区","CityID":104},{"DistrictID":"970","DistrictName":"狮子山区","CityID":104},{"DistrictID":"971","DistrictName":"郊区","CityID":104},{"DistrictID":"972","DistrictName":"铜陵县","CityID":104}]

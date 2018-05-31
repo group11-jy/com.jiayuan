@@ -1,0 +1,1 @@
+[{"DistrictID":"1575","DistrictName":"东宝区","CityID":175},{"DistrictID":"1576","DistrictName":"掇刀区","CityID":175},{"DistrictID":"1577","DistrictName":"京山县","CityID":175},{"DistrictID":"1578","DistrictName":"沙洋县","CityID":175},{"DistrictID":"1579","DistrictName":"钟祥市","CityID":175}]

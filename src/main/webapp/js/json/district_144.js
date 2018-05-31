@@ -1,0 +1,1 @@
+[{"DistrictID":"1306","DistrictName":"环翠区","CityID":144},{"DistrictID":"1307","DistrictName":"文登市","CityID":144},{"DistrictID":"1308","DistrictName":"荣成市","CityID":144},{"DistrictID":"1309","DistrictName":"乳山市","CityID":144}]

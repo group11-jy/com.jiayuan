@@ -1,0 +1,1 @@
+[{"DistrictID":"1837","DistrictName":"源城区","CityID":210},{"DistrictID":"1838","DistrictName":"紫金县","CityID":210},{"DistrictID":"1839","DistrictName":"龙川县","CityID":210},{"DistrictID":"1840","DistrictName":"连平县","CityID":210},{"DistrictID":"1841","DistrictName":"和平县","CityID":210},{"DistrictID":"1842","DistrictName":"东源县","CityID":210}]

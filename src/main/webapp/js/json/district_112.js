@@ -1,0 +1,1 @@
+[{"DistrictID":"1024","DistrictName":"谯城区","CityID":112},{"DistrictID":"1025","DistrictName":"涡阳县","CityID":112},{"DistrictID":"1026","DistrictName":"蒙城县","CityID":112},{"DistrictID":"1027","DistrictName":"利辛县","CityID":112}]

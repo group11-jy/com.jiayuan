@@ -1,0 +1,1 @@
+[{"DistrictID":"1931","DistrictName":"玉州区","CityID":226},{"DistrictID":"1932","DistrictName":"容县","CityID":226},{"DistrictID":"1933","DistrictName":"陆川县","CityID":226},{"DistrictID":"1934","DistrictName":"博白县","CityID":226},{"DistrictID":"1935","DistrictName":"兴业县","CityID":226},{"DistrictID":"1936","DistrictName":"北流市","CityID":226}]

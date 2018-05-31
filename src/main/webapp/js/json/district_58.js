@@ -1,0 +1,1 @@
+[{"DistrictID":"576","DistrictName":"洮北区","CityID":58},{"DistrictID":"577","DistrictName":"镇赉县","CityID":58},{"DistrictID":"578","DistrictName":"通榆县","CityID":58},{"DistrictID":"579","DistrictName":"洮南市","CityID":58},{"DistrictID":"580","DistrictName":"大安市","CityID":58}]

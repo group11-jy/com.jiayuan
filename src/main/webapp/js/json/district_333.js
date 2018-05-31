@@ -1,0 +1,1 @@
+[{"DistrictID":"2815","DistrictName":"阿图什市","CityID":333},{"DistrictID":"2816","DistrictName":"阿克陶县","CityID":333},{"DistrictID":"2817","DistrictName":"阿合奇县","CityID":333},{"DistrictID":"2818","DistrictName":"乌恰县","CityID":333}]

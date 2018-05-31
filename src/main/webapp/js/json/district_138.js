@@ -1,0 +1,1 @@
+[{"DistrictID":"1253","DistrictName":"市中区","CityID":138},{"DistrictID":"1254","DistrictName":"薛城区","CityID":138},{"DistrictID":"1255","DistrictName":"峄城区","CityID":138},{"DistrictID":"1256","DistrictName":"台儿庄区","CityID":138},{"DistrictID":"1257","DistrictName":"山亭区","CityID":138},{"DistrictID":"1258","DistrictName":"滕州市","CityID":138}]

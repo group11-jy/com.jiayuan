@@ -1,0 +1,1 @@
+[{"DistrictID":"2747","DistrictName":"兴庆区","CityID":320},{"DistrictID":"2748","DistrictName":"西夏区","CityID":320},{"DistrictID":"2749","DistrictName":"金凤区","CityID":320},{"DistrictID":"2750","DistrictName":"永宁县","CityID":320},{"DistrictID":"2751","DistrictName":"贺兰县","CityID":320},{"DistrictID":"2752","DistrictName":"灵武市","CityID":320}]

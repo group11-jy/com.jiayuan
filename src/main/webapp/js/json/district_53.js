@@ -1,0 +1,1 @@
+[{"DistrictID":"548","DistrictName":"铁西区","CityID":53},{"DistrictID":"549","DistrictName":"铁东区","CityID":53},{"DistrictID":"550","DistrictName":"梨树县","CityID":53},{"DistrictID":"551","DistrictName":"伊通满族自治县","CityID":53},{"DistrictID":"552","DistrictName":"公主岭市","CityID":53},{"DistrictID":"553","DistrictName":"双辽市","CityID":53}]

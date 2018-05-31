@@ -1,0 +1,1 @@
+[{"DistrictID":"472","DistrictName":"元宝区","CityID":42},{"DistrictID":"473","DistrictName":"振兴区","CityID":42},{"DistrictID":"474","DistrictName":"振安区","CityID":42},{"DistrictID":"475","DistrictName":"宽甸满族自治县","CityID":42},{"DistrictID":"476","DistrictName":"东港市","CityID":42},{"DistrictID":"477","DistrictName":"凤城市","CityID":42}]

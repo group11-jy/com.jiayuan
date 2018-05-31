@@ -1,0 +1,1 @@
+[{"DistrictID":"1447","DistrictName":"华龙区","CityID":160},{"DistrictID":"1448","DistrictName":"清丰县","CityID":160},{"DistrictID":"1449","DistrictName":"南乐县","CityID":160},{"DistrictID":"1450","DistrictName":"范县","CityID":160},{"DistrictID":"1451","DistrictName":"台前县","CityID":160},{"DistrictID":"1452","DistrictName":"濮阳县","CityID":160}]

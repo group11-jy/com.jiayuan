@@ -1,0 +1,1 @@
+[{"DistrictID":"2231","DistrictName":"钟山区","CityID":257},{"DistrictID":"2232","DistrictName":"六枝特区","CityID":257},{"DistrictID":"2233","DistrictName":"水城县","CityID":257},{"DistrictID":"2234","DistrictName":"盘县","CityID":257}]

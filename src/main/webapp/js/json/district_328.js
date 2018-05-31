@@ -1,0 +1,1 @@
+[{"DistrictID":"2783","DistrictName":"哈密市","CityID":328},{"DistrictID":"2784","DistrictName":"巴里坤哈萨克自治县","CityID":328},{"DistrictID":"2785","DistrictName":"伊吾县","CityID":328}]

@@ -1,0 +1,1 @@
+[{"DistrictID":"571","DistrictName":"宁江区","CityID":57},{"DistrictID":"572","DistrictName":"前郭尔罗斯蒙古族自治县","CityID":57},{"DistrictID":"573","DistrictName":"长岭县","CityID":57},{"DistrictID":"574","DistrictName":"乾安县","CityID":57},{"DistrictID":"575","DistrictName":"扶余县","CityID":57}]

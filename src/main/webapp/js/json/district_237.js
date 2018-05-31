@@ -1,0 +1,1 @@
+[{"DistrictID":"2065","DistrictName":"东区","CityID":237},{"DistrictID":"2066","DistrictName":"西区","CityID":237},{"DistrictID":"2067","DistrictName":"仁和区","CityID":237},{"DistrictID":"2068","DistrictName":"米易县","CityID":237},{"DistrictID":"2069","DistrictName":"盐边县","CityID":237}]

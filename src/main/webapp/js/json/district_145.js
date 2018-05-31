@@ -1,0 +1,1 @@
+[{"DistrictID":"1310","DistrictName":"东港区","CityID":145},{"DistrictID":"1311","DistrictName":"岚山区","CityID":145},{"DistrictID":"1312","DistrictName":"五莲县","CityID":145},{"DistrictID":"1313","DistrictName":"莒县","CityID":145}]

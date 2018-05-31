@@ -1,0 +1,1 @@
+[{"DistrictID":"1643","DistrictName":"雨湖区","CityID":185},{"DistrictID":"1644","DistrictName":"岳塘区","CityID":185},{"DistrictID":"1645","DistrictName":"湘潭县","CityID":185},{"DistrictID":"1646","DistrictName":"湘乡市","CityID":185},{"DistrictID":"1647","DistrictName":"韶山市","CityID":185}]

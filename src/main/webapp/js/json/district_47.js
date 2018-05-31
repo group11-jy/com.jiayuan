@@ -1,0 +1,1 @@
+[{"DistrictID":"505","DistrictName":"双台子区","CityID":47},{"DistrictID":"506","DistrictName":"兴隆台区","CityID":47},{"DistrictID":"507","DistrictName":"大洼县","CityID":47},{"DistrictID":"508","DistrictName":"盘山县","CityID":47}]

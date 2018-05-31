@@ -1,0 +1,1 @@
+[{"DistrictID":"1922","DistrictName":"钦南区","CityID":224},{"DistrictID":"1923","DistrictName":"钦北区","CityID":224},{"DistrictID":"1924","DistrictName":"灵山县","CityID":224},{"DistrictID":"1925","DistrictName":"浦北县","CityID":224}]

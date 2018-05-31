@@ -1,0 +1,1 @@
+[{"DistrictID":"1028","DistrictName":"贵池区","CityID":113},{"DistrictID":"1029","DistrictName":"东至县","CityID":113},{"DistrictID":"1030","DistrictName":"石台县","CityID":113},{"DistrictID":"1031","DistrictName":"青阳县","CityID":113}]

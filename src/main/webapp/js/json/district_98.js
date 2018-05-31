@@ -1,0 +1,1 @@
+[{"DistrictID":"934","DistrictName":"瑶海区","CityID":98},{"DistrictID":"935","DistrictName":"庐阳区","CityID":98},{"DistrictID":"936","DistrictName":"蜀山区","CityID":98},{"DistrictID":"937","DistrictName":"包河区","CityID":98},{"DistrictID":"938","DistrictName":"长丰县","CityID":98},{"DistrictID":"939","DistrictName":"肥东县","CityID":98},{"DistrictID":"940","DistrictName":"肥西县","CityID":98}]
